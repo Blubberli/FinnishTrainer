@@ -1,0 +1,3 @@
+# Module finnishtrainer
+# RPC service class, partial path of RPC policy file
+de.ws.client.GreetingService, D4C5440FCAFB9A9E89B659304C4A8187.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: de.ws.client.GreetingService
+path: D4C5440FCAFB9A9E89B659304C4A8187.gwt.rpc
